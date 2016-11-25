@@ -2,11 +2,13 @@
 The Movie Trailer Website project consists of server-side code to store a list of movies titles, along with its respective box art imagery and movie trailer website.
 
 Files included :
-	<b>fresh_tomatoes.py</b></br>
-	<b>media.py </b></br>
-	<b>entertainment_center.py </b></br>
+	<ul>
+	<li>fresh_tomatoes.py</li>
+	<li>media.py</li>
+	<li>entertainment_center.py</li>
+	</ul>
 
-To run this project execute following command in your command line :
+To run this project execute following command in your command line :<br/>
 	<b>python entertainment_center.py </b>
 
 Note: Make sure that python 2 is installed in your computer before running this program
